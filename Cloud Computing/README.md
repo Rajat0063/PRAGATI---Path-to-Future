@@ -158,7 +158,7 @@ Test your Cloud Computing knowledge with these 40 challenging questions. Each qu
 **Question 22:** Which cloud deployment model is characterized by being shared by multiple organizations?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ </p>
+✅ Answer: <p align="center">✔️ Public Cloud</p>
 
 </details>
 
