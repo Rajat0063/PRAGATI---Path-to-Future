@@ -12,7 +12,9 @@ Test your Cloud Computing knowledge with these 40 challenging questions. Each qu
 **Question 2:** Which of the following is(are) a benefit(s) of using containers in software development and deployment?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ </p>
+✅ Answer: <p align="center">✔️ Better Resource utilization<br>
+✔️ Application scalability<br>
+✔️ Increased development speed</p>
 
 </details>
 
@@ -53,7 +55,7 @@ Test your Cloud Computing knowledge with these 40 challenging questions. Each qu
 **Question 8:** Which of the following is NOT a cloud deployment model?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ </p>
+✅ Answer: <p align="center">✔️ Local Cloud</p>
 </details>
 
 
@@ -75,7 +77,9 @@ Test your Cloud Computing knowledge with these 40 challenging questions. Each qu
 **Question 11:** Which of the following is a future trend in cloud computing?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ </p>
+✅ Answer: <p align="center">✔️ Increased reliance on artificial intelligence<br>
+✔️ Increased adoption of serverless computing<br>
+✔️ Increased usage of edge computing</p>
 
 </details>
 
