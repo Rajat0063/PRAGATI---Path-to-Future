@@ -87,7 +87,7 @@ Test your Cloud Computing knowledge with these 40 challenging questions. Each qu
 **Question 12:** Which of the following is a benefit of using cloud databases?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ </p>
+✅ Answer: <p align="center">✔️ No maintenance required</p>
 
 </details>
 
@@ -187,7 +187,8 @@ Test your Cloud Computing knowledge with these 40 challenging questions. Each qu
 **Question 26:** What can be monitored using dashboards in a cloud environment?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ </p>
+✅ Answer: <p align="center">✔️ System performance<br>
+✔️ Network traffic</p>
 
 </details>
 
