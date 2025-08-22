@@ -22,32 +22,30 @@ Boost your scores to 💯 with these comprehensive tutorial videos and downloada
 ✔ **Visual Learning** - Watch complex topics become simple  
 
 ## 🎯 How to Use
-1. Click any video badge above
-2. Watch at 1.25x speed for quick review
-3. Practice alongside the tutorial
-4. Repeat challenging sections as needed
+1. Click any video badge above  
+2. Watch at 1.25x speed for quick review  
+3. Practice alongside the tutorial  
+4. Repeat challenging sections as needed  
 
-> 🗣️ _“These tutorials helped me go from struggling to top scorer in my class!”_ – Happy Learner
+> 🗣️ _“These tutorials helped me go from struggling to top scorer in my class!”_ – Happy Learner  
 
 ## 📌 Pro Tips
 - 📑 Bookmark this page for easy access  
 - 📝 Take notes while learning  
-- ⏸️ Pause and practice with examples
+- ⏸️ Pause and practice with examples  
 
 ---
 
-**Need more help?**  
-🔔 Never miss a creative coding tutorial! [![Code Artistry](https://img.shields.io/badge/YouTube-Code%20Artistry-red?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeArtistry63) <br>
+## ❓ Need more help?
+
+<div align="right">
+
+### 🔔 Stay Connected  
+Never miss a creative coding tutorial!  
+
+[![Code Artistry](https://img.shields.io/badge/YouTube-Code%20Artistry-red?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeArtistry63)  
+
 💬 *Drop your doubts in the comments*  
-⭐ *Star this repo if you found it helpful*
-
-<div align="center">
-
-## 🎬 Subscribe to My Channel  
-
-[![Code Artistry](https://img.shields.io/badge/YouTube-Code%20Artistry-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeArtistry63)  
-
-✨ Creative coding tutorials, UI designs, and projects to level up your skills.  
-🔥 Join the community and never miss an update!  
+⭐ *Star this repo if you found it helpful*  
 
 </div>
