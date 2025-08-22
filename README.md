@@ -40,3 +40,14 @@ Boost your scores to 💯 with these comprehensive tutorial videos and downloada
 🔔 Never miss a creative coding tutorial! [![Code Artistry](https://img.shields.io/badge/YouTube-Code%20Artistry-red?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeArtistry63) <br>
 💬 *Drop your doubts in the comments*  
 ⭐ *Star this repo if you found it helpful*
+
+<div align="center">
+
+## 🎬 Subscribe to My Channel  
+
+[![Code Artistry](https://img.shields.io/badge/YouTube-Code%20Artistry-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeArtistry63)  
+
+✨ Creative coding tutorials, UI designs, and projects to level up your skills.  
+🔥 Join the community and never miss an update!  
+
+</div>
