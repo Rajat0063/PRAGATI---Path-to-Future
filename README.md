@@ -6,11 +6,11 @@ Boost your scores to 💯 with these comprehensive tutorial videos and downloada
 
 ## 🎥📄 Complete Learning Package – Watch & Download
 
-| 📌 Topic                  | 🔗 Video Link                                                                                                   | ⏱️ Duration       | ✅ Score | ⬇️ PDF Notes                                                                 |
-|--------------------------|------------------------------------------------------------------------------------------------------------------|-------------------|---------|-------------------------------------------------------------------------------|
-| **Introduction to Natural Language Processing** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/XhxYsZdBBH4)                    | <p align="center">7min 20sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/your-link-to-java-foundation-certification)       |
-| **Essential of Cloud Computing** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/wX9f7hOzfdQ)                    | <p align="center">4min 36sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1VOMroRZbpo5qa_aeQkNVaO2DeVgoWzJJ/view?usp=drive_link)       |
-| **Cloud Technologies** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/80fnrvOkzWc)                    | <p align="center">1min 41sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1K2f-Z70Gl1ug-ZJaJbV2uPY1wRkVHFIt/view?usp=drive_link)       |
+| 📌 **Topic**                              | 🔗 **Video Link**                                                                                              | ⏱️ **Duration**     | 🎯 **Score** |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|--------------|
+| **Introduction to Natural Language Processing** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/XhxYsZdBBH4)                     | 7min 20sec          | 100% ✅       |
+| **Essential of Cloud Computing**          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/wX9f7hOzfdQ)                     | 4min 36sec          | 100% ✅       |
+| **Cloud Technologies**                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/80fnrvOkzWc)                     | 1min 41sec          | 100% ✅       |
 
 ---
 
