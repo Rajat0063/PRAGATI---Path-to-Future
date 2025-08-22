@@ -37,6 +37,6 @@ Boost your scores to 💯 with these comprehensive tutorial videos and downloada
 ---
 
 **Need more help?**  
-📺 Stay updated with my latest projects — [![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeArtistry63) <br>
+🔔 Never miss a creative coding tutorial! [![Code Artistry](https://img.shields.io/badge/YouTube-Code%20Artistry-red?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeArtistry63) <br>
 💬 *Drop your doubts in the comments*  
 ⭐ *Star this repo if you found it helpful*
